@@ -9,5 +9,6 @@ We make it using [Hikari](https://hikari-py.dev), [Lightbulb](https://github.com
 
 Where do I get Iodine?
 ---
-You can invite Iodine [here](https://discord.com/api/oauth2/authorize?client_id=935862654138978314&permissions=275415157830&scope=bot%20applications.commands).<br>
-The final version is now out! You can view it on [Top.gg](https://top.gg) right now.
+You can invite Iodine [here](https://discord.com/api/oauth2/authorize?client_id=935862654138978314&permissions=275415157830&scope=bot%20applications.commands), or view its page on [Top.gg](https://top.gg/bot/935862654138978314).
+
+Current version: Release 4
