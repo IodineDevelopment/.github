@@ -11,4 +11,6 @@ Where do I get Iodine?
 ---
 You can invite Iodine [here](https://discord.com/api/oauth2/authorize?client_id=935862654138978314&permissions=275415157830&scope=bot%20applications.commands), or view its page on [Top.gg](https://top.gg/bot/935862654138978314).
 
-Current version: r5.1
+Currently on version r5.2
+
+r6 coming soon:tm:
